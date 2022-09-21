@@ -1,1 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: Economic Times Filter
+! Last modified: 21 Sep 2022
+! Expires: 
+! Homepage:
+!
+
+
 economictimes.indiatimes.com##.adBox.custom_ad.nonm.mgid
